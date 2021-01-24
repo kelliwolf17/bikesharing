@@ -5,8 +5,9 @@ The purpose of this analysis was to take Citibike public data from New York City
 
 You can view the dashboard [here.](https://public.tableau.com/views/Bikesharing_Challenge_16115180203740/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
-# Results
+# Results - Dashboard Story
 ## Checkout Times
+From the two plots on the first slide of the story, you will see Checkout Times for Users and Checkout Times by Gender. From these visualizations we can determine that most trips last between 3-8 hours long. To dive deeper into what this means, we also split this same data up by the gender of the user. Male riders generally use the bike-sharing program more than females and use the bikes for longer spans of time.
 
 ![checkouttimes](https://user-images.githubusercontent.com/71397190/105647472-8fae2b80-5e6b-11eb-9f23-7b88c74b4e8e.PNG)
 
